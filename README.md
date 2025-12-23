@@ -246,7 +246,65 @@ The table below introduces various badges used to categorize papers in terms of 
 
 ## Metrics and Toolkits
 
-- **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *JMLR 2023.* [Paper](https://www.jmlr.org/papers/v24/22-0142.html) [Code](https://github.com/understandable-machine-intelligence-lab/Quantus)
+
+- **CLEVR-XAI: A benchmark dataset for the ground truth evaluation of neural network explanations**. *Information Fusion 2022*. [Paper]() [Code]()
+
+- **Shared interest: Measuring human-ai alignment to identify recurring patterns in model behavior**. *Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems 2022*. [Paper]() [Code]()
+
+- **Explaining knowledge distillation by quantifying the knowledge**. *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition 2020*. [Paper]() [Code]()
+
+- **How good is your explanation? algorithmic stability measures to assess the quality of explanations for deep neural networks**. *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision 2022*. [Paper]() [Code]()
+
+- **Xplique: A deep learning explainability toolbox**. *arXiv preprint arXiv:2206.04394 2022*. [Paper]() [Code]()
+
+- **Distance-Aware eXplanation Based Learning**. *2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI) 2023*. [Paper]() [Code]()
+
+- **Quantus: An explainable ai toolkit for responsible evaluation of neural network explanations and beyond**. *Journal of Machine Learning Research 2023*. [Paper]() [Code]()
+
+- **Captum: A unified and generic model interpretability library for pytorch**. *arXiv preprint arXiv:2009.07896 2020*. [Paper]() [Code]()
+
+- **Faithful vision-language interpretation via concept bottleneck models**. *The Twelfth International Conference on Learning Representations 2023*. [Paper]() [Code]()
+
+- **An experimental study of quantitative evaluations on saliency methods**. *Proceedings of the 27th ACM SIGKDD conference on knowledge discovery \& data mining 2021*. [Paper]() [Code]()
+
+- **Synthetic benchmarks for scientific research in explainable machine learning**. *arXiv preprint arXiv:2106.12543 2021*. [Paper]() [Code]()
+
+- **Quantitative evaluation of machine learning explanations: A human-grounded benchmark**. *Proceedings of the 26th International Conference on Intelligent User Interfaces 2021*. [Paper]() [Code]()
+
+- **Rise: Randomized input sampling for explanation of black-box models**. *arXiv preprint arXiv:1806.07421 2018*. [Paper]() [Code]()
+
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper]() [Code]()
+
+- **Understanding the decisions of CNNs: An in-model approach**. *Pattern Recognition Letters 2020*. [Paper]() [Code]()
+
+- **Evaluating the visualization of what a deep neural network has learned**. *IEEE transactions on neural networks and learning systems 2016*. [Paper]() [Code]()
+
+- **A framework for learning ante-hoc explainable models via concepts**. *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition 2022*. [Paper]() [Code]()
+
+- **Incremental residual concept bottleneck models**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024*. [Paper]() [Code]()
+
+- **Evaluating CNN interpretability on sketch classification**. *Twelfth International Conference on Machine Vision (ICMV 2019) 2020*. [Paper]() [Code]()
+
+- **Sanity checks for saliency metrics**. *Proceedings of the AAAI conference on artificial intelligence 2020*. [Paper]() [Code]()
+
+- **Learning support and trivial prototypes for interpretable image classification**. *Proceedings of the IEEE/CVF International Conference on Computer Vision 2023*. [Paper]() [Code]()
+
+- **Learning bottleneck concepts in image classification**. *Proceedings of the ieee/cvf conference on computer vision and pattern recognition 2023*. [Paper]() [Code]()
+
+- **Benchmarking attribution methods with relative feature importance**. *arXiv preprint arXiv:1907.09701 2019*. [Paper]() [Code]()
+
+- **Language in a bottle: Language model guided concept bottlenecks for interpretable image classification**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*. [Paper]() [Code]()
+
+- **On completeness-aware concept-based explanations in deep neural networks**. *Advances in neural information processing systems 2020*. [Paper]() [Code]()
+
+- **Top-down neural attention by excitation backprop**. *International Journal of Computer Vision 2018*. [Paper]() [Code]()
+
+- **Towards a unified evaluation of explanation methods without ground truth**. *arXiv preprint arXiv:1911.09017 2019*. [Paper]() [Code]()
+
+- **Invertible concept-based explanations for cnn models with non-negative concept activation vectors**. *Proceedings of the AAAI Conference on Artificial Intelligence 2021*. [Paper]() [Code]()
+
+- **XAI benchmark for visual explanation**. *arXiv preprint arXiv:2310.08537 2023*. [Paper]() [Code]()
+
 
 ## Citation
 
