@@ -299,6 +299,8 @@ The table below introduces various badges used to categorize papers in terms of 
 
 ### Toolkits & Libraries
 
+- **LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**. *CVPRW 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/html/Stan_LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models_CVPRW_2024_paper.html) [Code](https://github.com/josephtey/lvlm-interpret)
+
 - **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper]() [Code]()
 
 - **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper]() [Code]()
