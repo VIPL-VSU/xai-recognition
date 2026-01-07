@@ -305,6 +305,8 @@ The table below introduces various badges used to categorize papers in terms of 
 
 - **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper]() [Code]()
 
+- **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**. *CVPR 2022*. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.html) [Code](https://github.com/meng-du/VL-InterpreT)
+
 - **Xplique: A Deep Learning Explainability Toolbox**. *arXiv 2206.04394*. [Paper]() [Code]()
 
 - **Captum: A Unified and Generic Model Interpretability Library for PyTorch**. *arXiv 2009.07896*. [Paper]() [Code]()
