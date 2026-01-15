@@ -2,7 +2,7 @@
 
 Welcome to our curated repository showcasing significant works in the field of interpretable visual recognition. This collection serves as a companion to our survey paper, **A Survey on Interpretability in Visual Recognition**, providing insights into the evolving landscape of interpretability in this dynamic domain. We welcome contributions from the community to expand and update this repository. If you have a project or paper that you believe should be included, feel free to open an issue or submit a pull request.
 
-![](image/framework.png)
+![](static/images/teaser.png)
 
 ## Catalogue
 
