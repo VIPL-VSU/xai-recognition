@@ -247,69 +247,69 @@ The table below introduces various badges used to categorize papers in terms of 
 
 ### Metrics & Evaluation Related
 
-- **Incremental Residual Concept Bottleneck Models**. *CVPR 2024*. [Paper]() [Code]()
+- **Incremental Residual Concept Bottleneck Models**. *CVPR 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Incremental_Residual_Concept_Bottleneck_Models_CVPR_2024_paper.html) [Code]()
 
-- **Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification**. *CVPR 2023*. [Paper]() [Code]()
+- **Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.html) [Code]()
 
-- **Learning Bottleneck Concepts in Image Classification**. *CVPR 2023*. [Paper]() [Code]()
+- **Learning Bottleneck Concepts in Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.html) [Code]()
 
-- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper]() [Code]()
+- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html) [Code]()
 
-- **Faithful Vision-Language Interpretation via Concept Bottleneck Models**. *ICLR 2023*. [Paper]() [Code]()
+- **Faithful Vision-Language Interpretation via Concept Bottleneck Models**. *ICLR 2023*. [Paper](https://openreview.net/forum?id=rp0EdI8X4e) [Code]()
 
-- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper]() [Code]()
+- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper](https://ieeexplore.ieee.org/abstract/document/10356500/) [Code]()
 
-- **XAI Benchmark for Visual Explanation**. *arXiv 2310.08537*. [Paper]() [Code]()
+- **XAI Benchmark for Visual Explanation**. *arXiv 2310.08537*. [Paper](https://arxiv.org/abs/2310.08537) [Code]()
 
-- **A Framework for Learning Ante-Hoc Explainable Models via Concepts**. *CVPR 2022*. [Paper]() [Code]()
+- **A Framework for Learning Ante-Hoc Explainable Models via Concepts**. *CVPR 2022*. [Paper](http://openaccess.thecvf.com/content/CVPR2022/html/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.html) [Code]()
 
-- **CLEVR-XAI: A Benchmark Dataset for the Ground Truth Evaluation of Neural Network Explanations**. *Information Fusion 2022*. [Paper]() [Code]()
+- **CLEVR-XAI: A Benchmark Dataset for the Ground Truth Evaluation of Neural Network Explanations**. *Information Fusion 2022*. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002335) [Code]()
 
-- **How Good Is Your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks**. *WACV 2022*. [Paper]() [Code]()
+- **How Good Is Your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks**. *WACV 2022*. [Paper](http://openaccess.thecvf.com/content/WACV2022/html/Fel_How_Good_Is_Your_Explanation_Algorithmic_Stability_Measures_To_Assess_WACV_2022_paper.html) [Code]()
 
-- **Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior**. *CHI 2022*. [Paper]() [Code]()
+- **Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior**. *CHI 2022*. [Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501965) [Code]()
 
-- **An Experimental Study of Quantitative Evaluations on Saliency Methods**. *KDD 2021*. [Paper]() [Code]()
+- **An Experimental Study of Quantitative Evaluations on Saliency Methods**. *KDD 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467148) [Code]()
 
-- **Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark**. *IUI 2021*. [Paper]() [Code]()
+- **Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark**. *IUI 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3397481.3450689) [Code]()
 
-- **Invertible Concept-Based Explanations for CNN Models with Non-Negative Concept Activation Vectors**. *AAAI 2021*. [Paper]() [Code]()
+- **Invertible Concept-Based Explanations for CNN Models with Non-Negative Concept Activation Vectors**. *AAAI 2021*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17389) [Code]()
 
-- **Synthetic Benchmarks for Scientific Research in Explainable Machine Learning**. *arXiv 2106.12543*. [Paper]() [Code]()
+- **Synthetic Benchmarks for Scientific Research in Explainable Machine Learning**. *arXiv 2106.12543*. [Paper](https://arxiv.org/abs/2106.12543) [Code]()
 
-- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper]() [Code]()
+- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.html) [Code]()
 
-- **Sanity Checks for Saliency Metrics**. *AAAI 2020*. [Paper]() [Code]()
+- **Sanity Checks for Saliency Metrics**. *AAAI 2020*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6064) [Code]()
 
-- **On Completeness-Aware Concept-Based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper]() [Code]()
+- **On Completeness-Aware Concept-Based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html) [Code]()
 
-- **Understanding the Decisions of CNNs: An In-Model Approach**. *Pattern Recognition Letters 2020*. [Paper]() [Code]()
+- **Understanding the Decisions of CNNs: An In-Model Approach**. *Pattern Recognition Letters 2020*. [Paper](https://www.sciencedirect.com/science/article/pii/S0167865520301240) [Code]()
 
-- **Evaluating CNN Interpretability on Sketch Classification**. *ICMV 2020*. [Paper]() [Code]()
+- **Evaluating CNN Interpretability on Sketch Classification**. *ICMV 2019*. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/114331Q/Evaluating-CNN-interpretability-on-sketch-classification/10.1117/12.2559536.short) [Code]()
 
-- **Benchmarking Attribution Methods with Relative Feature Importance**. *arXiv 1907.09701*. [Paper]() [Code]()
+- **Benchmarking Attribution Methods with Relative Feature Importance**. *arXiv 1907.09701*. [Paper](https://arxiv.org/abs/1907.09701) [Code]()
 
-- **Towards a Unified Evaluation of Explanation Methods Without Ground Truth**. *arXiv 1911.09017*. [Paper]() [Code]()
+- **Towards a Unified Evaluation of Explanation Methods Without Ground Truth**. *arXiv 1911.09017*. [Paper](https://arxiv.org/abs/1911.09017) [Code]()
 
-- **Top-Down Neural Attention by Excitation Backprop**. *International Journal of Computer Vision 2018*. [Paper]() [Code]()
+- **Top-Down Neural Attention by Excitation Backprop**. *International Journal of Computer Vision 2018*. [Paper](https://link.springer.com/article/10.1007/s11263-017-1059-x) [Code]()
 
-- **RISE: Randomized Input Sampling for Explanation of Black-Box Models**. *arXiv 1806.07421*. [Paper]() [Code]()
+- **RISE: Randomized Input Sampling for Explanation of Black-Box Models**. *arXiv 1806.07421*. [Paper](https://arxiv.org/abs/1806.07421) [Code]()
 
-- **Evaluating the Visualization of What a Deep Neural Network Has Learned**. *IEEE Transactions on Neural Networks and Learning Systems 2016*. [Paper]() [Code]()
+- **Evaluating the Visualization of What a Deep Neural Network Has Learned**. *IEEE Transactions on Neural Networks and Learning Systems 2016*. [Paper](https://ieeexplore.ieee.org/abstract/document/7552539/) [Code]()
 
 ### Toolkits & Libraries
 
 - **LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**. *CVPRW 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/html/Stan_LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models_CVPRW_2024_paper.html) [Code](https://github.com/josephtey/lvlm-interpret)
 
-- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper]() [Code]()
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008439) [Code]()
 
-- **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper]() [Code]()
+- **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper](http://www.jmlr.org/papers/v24/22-0142.html) [Code]()
 
 - **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**. *CVPR 2022*. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.html) [Code](https://github.com/meng-du/VL-InterpreT)
 
-- **Xplique: A Deep Learning Explainability Toolbox**. *arXiv 2206.04394*. [Paper]() [Code]()
+- **Xplique: A Deep Learning Explainability Toolbox**. *arXiv 2206.04394*. [Paper](https://arxiv.org/abs/2206.04394) [Code]()
 
-- **Captum: A Unified and Generic Model Interpretability Library for PyTorch**. *arXiv 2009.07896*. [Paper]() [Code]()
+- **Captum: A Unified and Generic Model Interpretability Library for PyTorch**. *arXiv 2009.07896*. [Paper](https://arxiv.org/abs/2009.07896) [Code]()
 
 ## Citation
 
