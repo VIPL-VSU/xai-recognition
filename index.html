@@ -341,7 +341,7 @@
             </thead>
             <tbody>
               <tr>
-                <td class="has-background-info-light has-text-weight-bold is-vcentered" rowspan="18"
+                <td class="has-background-info-light has-text-weight-bold is-vcentered" rowspan="17"
                   style="writing-mode: vertical-rl; transform: rotate(180deg); white-space: nowrap; text-align: center; vertical-align: middle; padding: 1em 0;">
                   Localization Metrics
                 </td>
@@ -385,7 +385,7 @@
                 <td></td>
               </tr>
               <tr>
-                <td class="pl-4">Bias of Attribution Map <sup>[<a href="#ref-133">133</a>]</sup></td>
+                <td class="pl-4">Bias of Attribution Map, Unexplainable Feature <sup>[<a href="#ref-133">133</a>]</sup></td>
                 <td></td>
                 <td class="has-text-centered">✔</td>
                 <td></td>
@@ -393,18 +393,10 @@
                 <td rowspan="2">Develop four metrics for attribution maps to enable ground-truth-free evaluation</td>
               </tr>
               <tr>
-                <td class="pl-4">Unexplainable Feature <sup>[<a href="#ref-133">133</a>]</sup></td>
-                <td></td>
-                <td class="has-text-centered">✔</td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td class="pl-4">Robustness, Mutual Verif. <sup>[<a href="#ref-133">133</a>]</sup></td>
+                <td class="pl-4">Robustness, Mutual Verification <sup>[<a href="#ref-133">133</a>]</sup></td>
                 <td></td>
                 <td></td>
                 <td class="has-text-centered">✔</td>
-                <td></td>
                 <td></td>
               </tr>
               <tr>
@@ -445,14 +437,13 @@
                 <td class="has-text-centered">✔</td>
                 <td></td>
                 <td></td>
-                <td>Modify PG to use intersection ratio between salient area and ground truth mask</td>
+                <td rowspan="2">Modify PG to use intersection ratio between salient area and ground truth mask</td>
               </tr>
               <tr>
                 <td class="pl-4">CS, SENSmax <sup>[<a href="#ref-140">140</a>]</sup></td>
                 <td></td>
                 <td></td>
                 <td class="has-text-centered">✔</td>
-                <td></td>
                 <td></td>
               </tr>
               <tr>
@@ -489,7 +480,7 @@
               </tr>
 
               <tr>
-                <td class="has-background-success-light has-text-weight-bold is-vcentered" rowspan="15"
+                <td class="has-background-success-light has-text-weight-bold is-vcentered" rowspan="14"
                   style="writing-mode: vertical-rl; transform: rotate(180deg); white-space: nowrap; text-align: center; vertical-align: middle; padding: 1em 0;">
                   Semantic Metrics
                 </td>
@@ -506,7 +497,7 @@
                 <td class="has-text-centered">✔</td>
                 <td></td>
                 <td></td>
-                <td rowspan="2">Quantify “dark-matter” visual concepts encoded during the knowledge distillation</td>
+                <td rowspan="3">Quantify “dark-matter” visual concepts encoded during the knowledge distillation</td>
               </tr>
               <tr>
                 <td class="pl-4">ρ value <sup>[<a href="#ref-77">77</a>]</sup></td>
@@ -521,7 +512,6 @@
                 <td></td>
                 <td></td>
                 <td class="has-text-centered">✔</td>
-                <td></td>
               </tr>
               <tr>
                 <td class="pl-4">Fid<sub>c</sub>, Fid<sub>r</sub> <sup>[<a href="#ref-78">78</a>]</sup></td>
@@ -532,24 +522,17 @@
                 <td>Measure fidelity of concept-based explanations for classification and regression models</td>
               </tr>
               <tr>
-                <td class="pl-4">Faithfulness, Fidelity <sup>[<a href="#ref-80">80</a>]</sup></td>
+                <td class="pl-4">Faithfulness, Fidelity, Intervention on Concepts (IoC) <sup>[<a href="#ref-80">80</a>]</sup></td>
                 <td></td>
                 <td class="has-text-centered">✔</td>
                 <td></td>
                 <td></td>
-                <td rowspan="3">Metrics to assess faithfulness, fidelity, explanation error, and concept intervention
+                <td rowspan="2">Metrics to assess faithfulness, fidelity, explanation error, and concept intervention
                 </td>
               </tr>
               <tr>
                 <td class="pl-4">Explanation Error <sup>[<a href="#ref-80">80</a>]</sup></td>
                 <td class="has-text-centered">✔</td>
-                <td class="has-text-centered">✔</td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td class="pl-4">Intervention on Concepts (IoC) <sup>[<a href="#ref-80">80</a>]</sup></td>
-                <td></td>
                 <td class="has-text-centered">✔</td>
                 <td></td>
                 <td></td>
@@ -612,7 +595,7 @@
             </tbody>
           </table>
         </div>
-        <div class="block pl-4 is-size-7">
+        <div class="block px-4 is-size-7">
           <p id="ref-55">[55] B. Wang, L. Li, Y. Nakashima, and H. Nagahara, “Learning Bottleneck Concepts in Image Classification,” in CVPR, 2023, pp. 10962-10971.</p>
           <p id="ref-66">[66] C. Wang et al., “Learning Support and Trivial Prototypes for Interpretable Image Classification,” in ICCV, 2023, pp. 2062-2072.</p>
           <p id="ref-68">[68] M. T. Hagos, N. Belton, K. M. Curran, and B. Mac Namee, “Distance-Aware Explanation Based Learning,” in 2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI), 2023, pp. 279-286.</p>
