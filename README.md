@@ -245,7 +245,7 @@ The table below introduces various badges used to categorize papers in terms of 
 
 ## Metrics and Toolkits
 
-### Metrics & Evaluation
+### Metrics & Evaluation Related
 
 - **Incremental Residual Concept Bottleneck Models**. *CVPR 2024*. [Paper]() [Code]()
 
