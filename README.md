@@ -39,277 +39,277 @@ The table below introduces various badges used to categorize papers in terms of 
 | ![](https://img.shields.io/badge/M-counterfactual-a02b93) | **Methodology** is *conterfactual*. Simulates alternative scenarios by perturbing inputs to explore the potential outcomes that could arise under different conditions. |
 ## Paper List
 
-- **Explain Any Concept: Segment Anything Meets Concept-based Explanation**. *NeurIPS 2024*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/44cdeb5ab7da31d9b5cd88fd44e3da84-Abstract-Conference.html) [Code]()  
+- **Explain Any Concept: Segment Anything Meets Concept-based Explanation**. *NeurIPS 2024*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/44cdeb5ab7da31d9b5cd88fd44e3da84-Abstract-Conference.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations**. *NeurIPS 2024*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html) [Code]()  
+- **This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations**. *NeurIPS 2024*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008439) [Code]()  
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008439)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
 - **Interpretable Object Recognition by Semantic Prototype Analysis**. *WACV 2024*. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Wan_Interpretable_Object_Recognition_by_Semantic_Prototype_Analysis_WACV_2024_paper.html) [Code](https://github.com/WanQiyang/SPANet)  
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Concept-Centric Transformers: Enhancing Model Interpretability Through Object-Centric Concept Learning Within a Shared Global Workspace**. *WACV 2024*. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hong_Concept-Centric_Transformers_Enhancing_Model_Interpretability_Through_Object-Centric_Concept_Learning_Within_WACV_2024_paper.html) [Code]()  
+- **Concept-Centric Transformers: Enhancing Model Interpretability Through Object-Centric Concept Learning Within a Shared Global Workspace**. *WACV 2024*. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hong_Concept-Centric_Transformers_Enhancing_Model_Interpretability_Through_Object-Centric_Concept_Learning_Within_WACV_2024_paper.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **From Attribution Maps to Human-understandable Explanations Through Concept Relevance Propagation**. *Nature Machine Intelligence 2023*. [Paper](https://www.nature.com/articles/s42256-023-00711-8) [Code]()  
+- **From Attribution Maps to Human-understandable Explanations Through Concept Relevance Propagation**. *Nature Machine Intelligence 2023*. [Paper](https://www.nature.com/articles/s42256-023-00711-8)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **PIP-Net: Patch-based Intuitive Prototypes for Interpretable Image Classification**. *CVPR 2023*. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html?trk=public_post_comment-text) [Code]()  
+- **PIP-Net: Patch-based Intuitive Prototypes for Interpretable Image Classification**. *CVPR 2023*. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html?trk=public_post_comment-text)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Don't Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Fel_Dont_Lie_to_Me_Robust_and_Efficient_Explainability_With_Verified_CVPR_2023_paper.html) [Code]()  
+- **Don't Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Fel_Dont_Lie_to_Me_Robust_and_Efficient_Explainability_With_Verified_CVPR_2023_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-counterfactual-a02b93)
 
-- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html) [Code]()  
+- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Optimizing Explanations by Network Canonization and Hyperparameter Search**. *CVPR 2023*. [Paper](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/html/Pahde_Optimizing_Explanations_by_Network_Canonization_and_Hyperparameter_Search_CVPRW_2023_paper.html) [Code]()  
+- **Optimizing Explanations by Network Canonization and Hyperparameter Search**. *CVPR 2023*. [Paper](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/html/Pahde_Optimizing_Explanations_by_Network_Canonization_and_Hyperparameter_Search_CVPRW_2023_paper.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e)
 
-- **Understanding the (Extra-)ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations**. *arXiv 2311.16681*. [Paper](https://ieeexplore.ieee.org/abstract/document/10678010/) [Code]()  
+- **Understanding the (Extra-)ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations**. *arXiv 2311.16681*. [Paper](https://ieeexplore.ieee.org/abstract/document/10678010/)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Harsanyinet: Computing Accurate Shapley Values in a Single Forward Propagation**. *arXiv 2304.01811*. [Paper]() [Code]()  
+- **Harsanyinet: Computing Accurate Shapley Values in a Single Forward Propagation**. *arXiv 2304.01811*. [Paper]()
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Interpretability-aware Vision Transformer**. *arXiv 2309.08035*. [Paper](https://arxiv.org/abs/2309.08035) [Code]()  
+- **Interpretability-aware Vision Transformer**. *arXiv 2309.08035*. [Paper](https://arxiv.org/abs/2309.08035)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **A Novel Neural-symbolic System under Statistical Relational Learning**. *arXiv 2309.08931*. [Paper](https://arxiv.org/abs/2309.08931) [Code]()  
+- **A Novel Neural-symbolic System under Statistical Relational Learning**. *arXiv 2309.08931*. [Paper](https://arxiv.org/abs/2309.08931)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Mitigating Bias: Enhancing Image Classification by Improving Model Explanations**. *arXiv 2307.01473*. [Paper](https://arxiv.org/abs/2307.01473) [Code]()  
+- **Mitigating Bias: Enhancing Image Classification by Improving Model Explanations**. *arXiv 2307.01473*. [Paper](https://arxiv.org/abs/2307.01473)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Fixating on Attention: Integrating Human Eye Tracking into Vision Transformers**. *arXiv 2308.13969*. [Paper](https://arxiv.org/abs/2308.13969) [Code]()  
+- **Fixating on Attention: Integrating Human Eye Tracking into Vision Transformers**. *arXiv 2308.13969*. [Paper](https://arxiv.org/abs/2308.13969)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **UFO: A Unified Method for Controlling Understandability and Faithfulness Objectives in Concept-based Explanations for CNNs**. *arXiv 2303.15632*. [Paper](https://arxiv.org/abs/2303.15632) [Code]()  
+- **UFO: A Unified Method for Controlling Understandability and Faithfulness Objectives in Concept-based Explanations for CNNs**. *arXiv 2303.15632*. [Paper](https://arxiv.org/abs/2303.15632)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper](https://ieeexplore.ieee.org/abstract/document/10356500/) [Code]()  
+- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper](https://ieeexplore.ieee.org/abstract/document/10356500/)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Gradient Strikes Back: How Filtering Out High Frequencies Improves Explanations**. *arXiv 2307.09591*. [Paper](https://openreview.net/forum?id=IQ6GI7fM2z) [Code]()  
+- **Gradient Strikes Back: How Filtering Out High Frequencies Improves Explanations**. *arXiv 2307.09591*. [Paper](https://openreview.net/forum?id=IQ6GI7fM2z)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Concept Bottleneck Model with Additional Unsupervised Concepts**. *IEEE Access 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9758745/) [Code]()  
+- **Concept Bottleneck Model with Additional Unsupervised Concepts**. *IEEE Access 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9758745/)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification**. *TPAMI 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9864081/) [Code]()  
+- **Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification**. *TPAMI 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9864081/)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **SegDiscover: Visual Concept Discovery via Unsupervised Semantic Segmentation**. *arXiv 2204.10926*. [Paper](https://arxiv.org/abs/2204.10926) [Code]()  
+- **SegDiscover: Visual Concept Discovery via Unsupervised Semantic Segmentation**. *arXiv 2204.10926*. [Paper](https://arxiv.org/abs/2204.10926)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **ELUDE: Generating Interpretable Explanations via a Decomposition into Labelled and Unlabelled Features**. *arXiv 2206.07690*. [Paper](https://arxiv.org/abs/2206.07690) [Code]()  
+- **ELUDE: Generating Interpretable Explanations via a Decomposition into Labelled and Unlabelled Features**. *arXiv 2206.07690*. [Paper](https://arxiv.org/abs/2206.07690)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Neural Prototype Trees for Interpretable Fine-grained Image Recognition**. *CVPR 2021*. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.html?ref=https://githubhelp.com) [Code]()  
+- **Neural Prototype Trees for Interpretable Fine-grained Image Recognition**. *CVPR 2021*. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.html?ref=https://githubhelp.com)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-structure-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Natural Language Descriptions of Deep Visual Features**. *ICLR 2021*. [Paper](https://openreview.net/forum?id=NudBMY-tzDr) [Code]()  
+- **Natural Language Descriptions of Deep Visual Features**. *ICLR 2021*. [Paper](https://openreview.net/forum?id=NudBMY-tzDr)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **This Looks Like That, Because... Explaining Prototypes for Interpretable Image Recognition**. *ECML-PKDD 2021*. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_34) [Code]()  
+- **This Looks Like That, Because... Explaining Prototypes for Interpretable Image Recognition**. *ECML-PKDD 2021*. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_34)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/M-counterfactual-a02b93)
 
-- **Dissect: Disentangled Simultaneous Explanations via Concept Traversals**. *arXiv 2105.15164*. [Paper](https://arxiv.org/abs/2105.15164) [Code]()  
+- **Dissect: Disentangled Simultaneous Explanations via Concept Traversals**. *arXiv 2105.15164*. [Paper](https://arxiv.org/abs/2105.15164)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Interpretable Compositional Convolutional Neural Networks**. *arXiv 2107.04474*. [Paper](https://arxiv.org/abs/2107.04474) [Code]()  
+- **Interpretable Compositional Convolutional Neural Networks**. *arXiv 2107.04474*. [Paper](https://arxiv.org/abs/2107.04474)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Best of Both Worlds: Local and Global explanations with Human-understandable Concepts**. *arXiv 2106.08641*. [Paper](https://arxiv.org/abs/2106.08641) [Code]()  
+- **Best of Both Worlds: Local and Global explanations with Human-understandable Concepts**. *arXiv 2106.08641*. [Paper](https://arxiv.org/abs/2106.08641)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **A Game-theoretic Taxonomy of Visual Concepts in DNNs**. *arXiv 2106.10938*. [Paper](https://arxiv.org/abs/2106.10938) [Code]()  
+- **A Game-theoretic Taxonomy of Visual Concepts in DNNs**. *arXiv 2106.10938*. [Paper](https://arxiv.org/abs/2106.10938)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Keep Calm and Improve Visual Feature Attribution**. *ICCV 2021*. [Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Kim_Keep_CALM_and_Improve_Visual_Feature_Attribution_ICCV_2021_paper.html) [Code]()  
+- **Keep Calm and Improve Visual Feature Attribution**. *ICCV 2021*. [Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Kim_Keep_CALM_and_Improve_Visual_Feature_Attribution_ICCV_2021_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Generating Visual Explanations with Natural Language**. *Applied AI Letters 2021*. [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ail2.55) [Code]()  
+- **Generating Visual Explanations with Natural Language**. *Applied AI Letters 2021*. [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ail2.55)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Visualizing the Emergence of Intermediate Visual Patterns in DNNs**. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/33ebd5b07dc7e407752fe773eed20635-Abstract.html) [Code]()  
+- **Visualizing the Emergence of Intermediate Visual Patterns in DNNs**. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/33ebd5b07dc7e407752fe773eed20635-Abstract.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Concept Bottleneck Models**. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/koh20a) [Code]()  
+- **Concept Bottleneck Models**. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/koh20a)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Concept Whitening for Interpretable Image Recognition**. *Nature Machine Intelligence 2020*. [Paper](https://www.nature.com/articles/s42256-020-00265-z) [Code]()  
+- **Concept Whitening for Interpretable Image Recognition**. *Nature Machine Intelligence 2020*. [Paper](https://www.nature.com/articles/s42256-020-00265-z)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **On Completeness-aware Concept-based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html) [Code]()  
+- **On Completeness-aware Concept-based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.html) [Code]()  
+- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Interpretable CNNs for Object Classification**. *TPAMI 2020*. [Paper](https://ieeexplore.ieee.org/abstract/document/9050545/) [Code]()  
+- **Interpretable CNNs for Object Classification**. *TPAMI 2020*. [Paper](https://ieeexplore.ieee.org/abstract/document/9050545/)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Interactive Explanations of Internal Representations of Neural Network Layers: An Exploratory Study on Outcome Prediction of Comatose Patients**. *KDH 2020*. [Paper](https://research.utwente.nl/en/publications/interactive-explanations-of-internal-representations-of-neural-ne) [Code]()  
+- **Interactive Explanations of Internal Representations of Neural Network Layers: An Exploratory Study on Outcome Prediction of Comatose Patients**. *KDH 2020*. [Paper](https://research.utwente.nl/en/publications/interactive-explanations-of-internal-representations-of-neural-ne)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-structure-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Generating Visual and Semantic Explanations with Multi-task Network**. *ECCV Workshops 2020*. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_40) [Code]()  
+- **Generating Visual and Semantic Explanations with Multi-task Network**. *ECCV Workshops 2020*. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_40)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **This Looks Like That: Deep Learning for Interpretable Image Recognition**. *NeurIPS 2019*. [Paper](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html) [Code]()  
+- **This Looks Like That: Deep Learning for Interpretable Image Recognition**. *NeurIPS 2019*. [Paper](https://proceedings.neurips.cc/paper/2019/hash/adf7ee2dcf142b0e11888e72b43fcb75-Abstract.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Unmasking Clever Hans Predictors and Assessing What Machines Really Learn**. *Nature Communications 2019*. [Paper](https://www.nature.com/articles/s41467-019-08987-4) [Code]()  
+- **Unmasking Clever Hans Predictors and Assessing What Machines Really Learn**. *Nature Communications 2019*. [Paper](https://www.nature.com/articles/s41467-019-08987-4)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Towards Automatic Concept-based Explanations**. *NeurIPS 2019*. [Paper](https://proceedings.neurips.cc/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html) [Code]()  
+- **Towards Automatic Concept-based Explanations**. *NeurIPS 2019*. [Paper](https://proceedings.neurips.cc/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Explaining Classifiers with Causal Concept Effect (CaCE)**. *arXiv 1907.07165*. [Paper](https://arxiv.org/abs/1907.07165) [Code]()  
+- **Explaining Classifiers with Causal Concept Effect (CaCE)**. *arXiv 1907.07165*. [Paper](https://arxiv.org/abs/1907.07165)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/M-counterfactual-a02b93)
 
-- **Interpretable Image Recognition with Hierarchical Prototypes**. *AAAI 2019*. [Paper](https://aaai.org/ojs/index.php/HCOMP/article/view/5265) [Code]()  
+- **Interpretable Image Recognition with Hierarchical Prototypes**. *AAAI 2019*. [Paper](https://aaai.org/ojs/index.php/HCOMP/article/view/5265)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Towards Aggregating Weighted Feature Attributions**. *arXiv 1901.10040*. [Paper](https://arxiv.org/abs/1901.10040) [Code]()  
+- **Towards Aggregating Weighted Feature Attributions**. *arXiv 1901.10040*. [Paper](https://arxiv.org/abs/1901.10040)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Deep Features Analysis with Attention Networks**. *arXiv 1901.10042*. [Paper](https://arxiv.org/abs/1901.10042) [Code]()  
+- **Deep Features Analysis with Attention Networks**. *arXiv 1901.10042*. [Paper](https://arxiv.org/abs/1901.10042)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Visualising the Training Process of Convolutional Neural Networks for Non-experts**. *BNAIC 2019*. [Paper](https://ris.utwente.nl/ws/files/480506833/paper108.pdf) [Code]()  
+- **Visualising the Training Process of Convolutional Neural Networks for Non-experts**. *BNAIC 2019*. [Paper](https://ris.utwente.nl/ws/files/480506833/paper108.pdf)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **A Universal Logic Operator for Interpretable Deep Convolution Networks**. *arXiv 1901.08551*. [Paper](https://arxiv.org/abs/1901.08551) [Code]()  
+- **A Universal Logic Operator for Interpretable Deep Convolution Networks**. *arXiv 1901.08551*. [Paper](https://arxiv.org/abs/1901.08551)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5)
 
-- **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)**. *ICML 2018*. [Paper](http://proceedings.mlr.press/v80/kim18d.html) [Code]()  
+- **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)**. *ICML 2018*. [Paper](http://proceedings.mlr.press/v80/kim18d.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Deep Learning for Case-based Reasoning through Prototypes: A Neural Network that Explains Its Predictions**. *AAAI 2018*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11771) [Code]()  
+- **Deep Learning for Case-based Reasoning through Prototypes: A Neural Network that Explains Its Predictions**. *AAAI 2018*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11771)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Multimodal Explanations: Justifying Decisions and Pointing to the Evidence**. *CVPR 2018*. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.html) [Code]()  
+- **Multimodal Explanations: Justifying Decisions and Pointing to the Evidence**. *CVPR 2018*. [Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Park_Multimodal_Explanations_Justifying_CVPR_2018_paper.html)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Interpreting Deep Visual Representations via Network Dissection**. *TPAMI 2018*. [Paper](https://ieeexplore.ieee.org/abstract/document/8417924/) [Code]()  
+- **Interpreting Deep Visual Representations via Network Dissection**. *TPAMI 2018*. [Paper](https://ieeexplore.ieee.org/abstract/document/8417924/)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Interpretable Basis Decomposition for Visual Explanation**. *ECCV 2018*. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.html) [Code]()  
+- **Interpretable Basis Decomposition for Visual Explanation**. *ECCV 2018*. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Grounding Visual Explanations**. *ECCV 2018*. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Lisa_Anne_Hendricks_Grounding_Visual_Explanations_ECCV_2018_paper.html) [Code]()  
+- **Grounding Visual Explanations**. *ECCV 2018*. [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Lisa_Anne_Hendricks_Grounding_Visual_Explanations_ECCV_2018_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/P-exemplar-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Revisiting the Importance of Individual Units in CNNs via Ablation**. *arXiv 1806.02891*. [Paper](https://arxiv.org/abs/1806.02891) [Code]()  
+- **Revisiting the Importance of Individual Units in CNNs via Ablation**. *arXiv 1806.02891*. [Paper](https://arxiv.org/abs/1806.02891)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/M-counterfactual-a02b93)
 
-- **Unsupervised Learning of Neural Networks to Explain Neural Networks**. *arXiv 1805.07468*. [Paper](https://arxiv.org/abs/1805.07468) [Code]()  
+- **Unsupervised Learning of Neural Networks to Explain Neural Networks**. *arXiv 1805.07468*. [Paper](https://arxiv.org/abs/1805.07468)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Generating Post-hoc Rationales of Deep Visual Classification Decisions**. *Explainable and Interpretable Models in Computer Vision and Machine Learning, 2018*. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-98131-4_6) [Code]()  
+- **Generating Post-hoc Rationales of Deep Visual Classification Decisions**. *Explainable and Interpretable Models in Computer Vision and Machine Learning, 2018*. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-98131-4_6)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**. *ICCV 2017*. [Paper](http://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html) [Code]()  
+- **Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**. *ICCV 2017*. [Paper](http://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Axiomatic Attribution for Deep Networks**. *ICML 2017*. [Paper]() [Code]()  
+- **Axiomatic Attribution for Deep Networks**. *ICML 2017*. [Paper]()
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **SmoothGrad: Removing Noise by Adding Noise**. *arXiv 1706.03825*. [Paper](https://arxiv.org/abs/1706.03825) [Code]()  
+- **SmoothGrad: Removing Noise by Adding Noise**. *arXiv 1706.03825*. [Paper](https://arxiv.org/abs/1706.03825)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Network Dissection: Quantifying Interpretability of Deep Visual Representations**. *CVPR 2017*. [Paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.html) [Code]()  
+- **Network Dissection: Quantifying Interpretability of Deep Visual Representations**. *CVPR 2017*. [Paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Explaining Nonlinear Classification Decisions with Deep Taylor Decomposition**. *Pattern Recognition 2017*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) [Code]()  
+- **Explaining Nonlinear Classification Decisions with Deep Taylor Decomposition**. *Pattern Recognition 2017*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**. *arXiv 1708.05493*. [Paper](https://arxiv.org/abs/1708.05493) [Code]()  
+- **Towards Interpretable Deep Neural Networks by Leveraging Adversarial Examples**. *arXiv 1708.05493*. [Paper](https://arxiv.org/abs/1708.05493)
   ![](https://img.shields.io/badge/I-active-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-scalar-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Growing Interpretable Part Graphs on Convnets via Multi-shot Learning**. *AAAI 2017*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10924) [Code]()  
+- **Growing Interpretable Part Graphs on Convnets via Multi-shot Learning**. *AAAI 2017*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10924)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-structure-0f9ed5) ![](https://img.shields.io/badge/M-intervention-a02b93)
 
-- **Learning Deep Features for Discriminative Localization**. *CVPR 2016*. [Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhou_Learning_Deep_Features_CVPR_2016_paper.html) [Code]()  
+- **Learning Deep Features for Discriminative Localization**. *CVPR 2016*. [Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Zhou_Learning_Deep_Features_CVPR_2016_paper.html)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/O-global-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **Generating Visual Explanations**. *ECCV 2016*. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_1) [Code]()  
+- **Generating Visual Explanations**. *ECCV 2016*. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_1)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-semilocal-4ea72e) ![](https://img.shields.io/badge/P-semantic-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
-- **On Pixel-wise Explanations for Non-linear Classifier Decisions by Layer-wise Relevance Propagation**. *PloS one 2015*. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) [Code]()  
+- **On Pixel-wise Explanations for Non-linear Classifier Decisions by Layer-wise Relevance Propagation**. *PloS one 2015*. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
   ![](https://img.shields.io/badge/I-passive-e97132) ![](https://img.shields.io/badge/O-local-4ea72e) ![](https://img.shields.io/badge/P-attention-0f9ed5) ![](https://img.shields.io/badge/M-association-a02b93)
 
 ## Metrics and Toolkits
 
 ### Metrics & Evaluation Related
 
-- **Incremental Residual Concept Bottleneck Models**. *CVPR 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Incremental_Residual_Concept_Bottleneck_Models_CVPR_2024_paper.html) [Code]()
+- **Incremental Residual Concept Bottleneck Models**. *CVPR 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shang_Incremental_Residual_Concept_Bottleneck_Models_CVPR_2024_paper.html) [Code](https://github.com/HelloSCM/Res-CBM)
 
-- **Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.html) [Code]()
+- **Faithful Vision-Language Interpretation via Concept Bottleneck Models**. *ICLR 2024*. [Paper](https://openreview.net/forum?id=rp0EdI8X4e) [Code](https://github.com/kaustpradalab/FVLC)
 
-- **Learning Bottleneck Concepts in Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.html) [Code]()
+- **Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.html) [Code](https://github.com/YueYANG1996/LaBo)
 
-- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html) [Code]()
+- **Learning Bottleneck Concepts in Image Classification**. *CVPR 2023*. [Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Bottleneck_Concepts_in_Image_Classification_CVPR_2023_paper.html) [Code](https://github.com/wbw520/BotCL)
 
-- **Faithful Vision-Language Interpretation via Concept Bottleneck Models**. *ICLR 2023*. [Paper](https://openreview.net/forum?id=rp0EdI8X4e) [Code]()
+- **Learning Support and Trivial Prototypes for Interpretable Image Classification**. *ICCV 2023*. [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html) [Code](https://github.com/cwangrun/ST-ProtoPNet)
 
-- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper](https://ieeexplore.ieee.org/abstract/document/10356500/) [Code]()
+- **Distance-Aware eXplanation Based Learning**. *ICTAI 2023*. [Paper](https://ieeexplore.ieee.org/abstract/document/10356500/) [Code](https://github.com/Msgun/XBL-D)
 
-- **XAI Benchmark for Visual Explanation**. *arXiv 2310.08537*. [Paper](https://arxiv.org/abs/2310.08537) [Code]()
+- **Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations**. *arXiv 2310.08537*. [Paper](https://arxiv.org/abs/2310.08537) [Code](https://github.com/XAIdataset/XAIdataset.github.io)
 
-- **A Framework for Learning Ante-Hoc Explainable Models via Concepts**. *CVPR 2022*. [Paper](http://openaccess.thecvf.com/content/CVPR2022/html/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.html) [Code]()
+- **A Framework for Learning Ante-Hoc Explainable Models via Concepts**. *CVPR 2022*. [Paper](http://openaccess.thecvf.com/content/CVPR2022/html/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.html) [Code](https://github.com/anirbansarkar-cs/Ante-hoc_Explainability_Concepts)
 
-- **CLEVR-XAI: A Benchmark Dataset for the Ground Truth Evaluation of Neural Network Explanations**. *Information Fusion 2022*. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002335) [Code]()
+- **CLEVR-XAI: A Benchmark Dataset for the Ground Truth Evaluation of Neural Network Explanations**. *Information Fusion 2022*. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002335) [Code](https://github.com/ahmedmagdiosman/clevr-xai)
 
-- **How Good Is Your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks**. *WACV 2022*. [Paper](http://openaccess.thecvf.com/content/WACV2022/html/Fel_How_Good_Is_Your_Explanation_Algorithmic_Stability_Measures_To_Assess_WACV_2022_paper.html) [Code]()
+- **How Good Is Your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks**. *WACV 2022*. [Paper](http://openaccess.thecvf.com/content/WACV2022/html/Fel_How_Good_Is_Your_Explanation_Algorithmic_Stability_Measures_To_Assess_WACV_2022_paper.html)
 
-- **Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior**. *CHI 2022*. [Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501965) [Code]()
+- **Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior**. *CHI 2022*. [Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501965) [Code](https://github.com/mitvis/shared-interest)
 
-- **An Experimental Study of Quantitative Evaluations on Saliency Methods**. *KDD 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467148) [Code]()
+- **An Experimental Study of Quantitative Evaluations on Saliency Methods**. *KDD 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467148)
 
-- **Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark**. *IUI 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3397481.3450689) [Code]()
+- **Quantitative Evaluation of Machine Learning Explanations: A Human-Grounded Benchmark**. *IUI 2021*. [Paper](https://dl.acm.org/doi/abs/10.1145/3397481.3450689) [Code](https://github.com/SinaMohseni/ML-Interpretability-Evaluation-Benchmark)
 
-- **Invertible Concept-Based Explanations for CNN Models with Non-Negative Concept Activation Vectors**. *AAAI 2021*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17389) [Code]()
+- **Invertible Concept-Based Explanations for CNN Models with Non-Negative Concept Activation Vectors**. *AAAI 2021*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17389) [Code](https://github.com/zhangrh93/InvertibleCE)
 
-- **Synthetic Benchmarks for Scientific Research in Explainable Machine Learning**. *arXiv 2106.12543*. [Paper](https://arxiv.org/abs/2106.12543) [Code]()
+- **Synthetic Benchmarks for Scientific Research in Explainable Machine Learning**. *arXiv 2106.12543*. [Paper](https://arxiv.org/abs/2106.12543) [Code](https://github.com/abacusai/xai-bench)
 
-- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.html) [Code]()
+- **Explaining Knowledge Distillation by Quantifying the Knowledge**. *CVPR 2020*. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.html) [Code](https://github.com/Jenniferlyx/Explaining-Knowledge-Distillation-by-Quantifying-the-Knowledge)
 
-- **Sanity Checks for Saliency Metrics**. *AAAI 2020*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6064) [Code]()
+- **Sanity Checks for Saliency Metrics**. *AAAI 2020*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6064)
 
-- **On Completeness-Aware Concept-Based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html) [Code]()
+- **On Completeness-Aware Concept-Based Explanations in Deep Neural Networks**. *NeurIPS 2020*. [Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html) [Code](https://github.com/chihkuanyeh/concept_exp)
 
-- **Understanding the Decisions of CNNs: An In-Model Approach**. *Pattern Recognition Letters 2020*. [Paper](https://www.sciencedirect.com/science/article/pii/S0167865520301240) [Code]()
+- **Understanding the Decisions of CNNs: An In-Model Approach**. *Pattern Recognition Letters 2020*. [Paper](https://www.sciencedirect.com/science/article/pii/S0167865520301240) [Code](https://github.com/icrto/xML)
 
-- **Evaluating CNN Interpretability on Sketch Classification**. *ICMV 2019*. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/114331Q/Evaluating-CNN-interpretability-on-sketch-classification/10.1117/12.2559536.short) [Code]()
+- **Evaluating CNN Interpretability on Sketch Classification**. *ICMV 2019*. [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/114331Q/Evaluating-CNN-interpretability-on-sketch-classification/10.1117/12.2559536.short)
 
-- **Benchmarking Attribution Methods with Relative Feature Importance**. *arXiv 1907.09701*. [Paper](https://arxiv.org/abs/1907.09701) [Code]()
+- **Benchmarking Attribution Methods with Relative Feature Importance**. *arXiv 1907.09701*. [Paper](https://arxiv.org/abs/1907.09701) [Code](https://github.com/google-research-datasets/bam)
 
-- **Towards a Unified Evaluation of Explanation Methods Without Ground Truth**. *arXiv 1911.09017*. [Paper](https://arxiv.org/abs/1911.09017) [Code]()
+- **Towards a Unified Evaluation of Explanation Methods Without Ground Truth**. *arXiv 1911.09017*. [Paper](https://arxiv.org/abs/1911.09017)
 
-- **Top-Down Neural Attention by Excitation Backprop**. *International Journal of Computer Vision 2018*. [Paper](https://link.springer.com/article/10.1007/s11263-017-1059-x) [Code]()
+- **Top-Down Neural Attention by Excitation Backprop**. *International Journal of Computer Vision 2018*. [Paper](https://link.springer.com/article/10.1007/s11263-017-1059-x) [Code](https://github.com/jimmie33/Caffe-ExcitationBP)
 
-- **RISE: Randomized Input Sampling for Explanation of Black-Box Models**. *arXiv 1806.07421*. [Paper](https://arxiv.org/abs/1806.07421) [Code]()
+- **RISE: Randomized Input Sampling for Explanation of Black-Box Models**. *arXiv 1806.07421*. [Paper](https://arxiv.org/abs/1806.07421) [Code](https://github.com/eclique/RISE)
 
-- **Evaluating the Visualization of What a Deep Neural Network Has Learned**. *IEEE Transactions on Neural Networks and Learning Systems 2016*. [Paper](https://ieeexplore.ieee.org/abstract/document/7552539/) [Code]()
+- **Evaluating the Visualization of What a Deep Neural Network Has Learned**. *IEEE Transactions on Neural Networks and Learning Systems 2016*. [Paper](https://ieeexplore.ieee.org/abstract/document/7552539/)
 
 ### Toolkits & Libraries
 
 - **LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**. *CVPRW 2024*. [Paper](https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/html/Stan_LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models_CVPRW_2024_paper.html) [Code](https://github.com/josephtey/lvlm-interpret)
 
-- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008439) [Code]()
+- **ECLAD: Extracting Concepts with Local Aggregated Descriptors**. *Pattern Recognition 2024*. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323008439) [Code](https://drive.google.com/drive/folders/16CjAvk8H1VAD2-rNiy0HV3OmzDlrwXo5)
 
-- **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper](http://www.jmlr.org/papers/v24/22-0142.html) [Code]()
+- **Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond**. *Journal of Machine Learning Research 2023*. [Paper](http://www.jmlr.org/papers/v24/22-0142.html) [Code](https://github.com/understandable-machine-intelligence-lab/Quantus)
 
 - **VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**. *CVPR 2022*. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.html) [Code](https://github.com/meng-du/VL-InterpreT)
 
-- **Xplique: A Deep Learning Explainability Toolbox**. *arXiv 2206.04394*. [Paper](https://arxiv.org/abs/2206.04394) [Code]()
+- **Xplique: A Deep Learning Explainability Toolbox**. *arXiv 2206.04394*. [Paper](https://arxiv.org/abs/2206.04394) [Code](https://github.com/deel-ai/xplique)
 
-- **Captum: A Unified and Generic Model Interpretability Library for PyTorch**. *arXiv 2009.07896*. [Paper](https://arxiv.org/abs/2009.07896) [Code]()
+- **Captum: A Unified and Generic Model Interpretability Library for PyTorch**. *arXiv 2009.07896*. [Paper](https://arxiv.org/abs/2009.07896) [Code](https://github.com/meta-pytorch/captum)
 
 ## Citation
 
