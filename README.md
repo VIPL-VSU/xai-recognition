@@ -313,11 +313,23 @@ The table below introduces various badges used to categorize papers in terms of 
 
 ## Citation
 
+### Plain Text
+
+```
+Qiyang Wan, Chengzhi Gao, Ruiping Wang, Xilin Chen, "A Survey on Interpretability in Visual Recognition," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 7, pp. 8547-8566, Jul. 2026.
+```
+
+### BibTeX
+
 ```
 @article{wan2025survey,
   title={A Survey on Interpretability in Visual Recognition},
   author={Wan, Qiyang and Gao, Chengzhi and Wang, Ruiping and Chen, Xilin},
-  journal={arXiv preprint arXiv:2507.11099},
-  year={2025}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  volume={48},
+  number={7},
+  pages={8547-8566},
+  doi={10.1109/TPAMI.2026.3672629}
 }
 ```

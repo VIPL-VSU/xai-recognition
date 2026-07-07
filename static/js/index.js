@@ -36,18 +36,26 @@ document.addEventListener('keydown', function(event) {
     }
 });
 
+// Copy plain text citation to clipboard
+function copyPlainText(btn) {
+    copyCode(document.getElementById('plaintext-code'), btn);
+}
+
 // Copy BibTeX to clipboard
-function copyBibTeX() {
-    const bibtexElement = document.getElementById('bibtex-code');
-    const button = document.querySelector('.copy-bibtex-btn');
+function copyBibTeX(btn) {
+    copyCode(document.getElementById('bibtex-code'), btn);
+}
+
+// Generic copy helper
+function copyCode(codeElement, button) {
     const copyText = button.querySelector('.copy-text');
-    
-    if (bibtexElement) {
-        navigator.clipboard.writeText(bibtexElement.textContent).then(function() {
+
+    if (codeElement) {
+        navigator.clipboard.writeText(codeElement.textContent).then(function() {
             // Success feedback
             button.classList.add('copied');
             copyText.textContent = 'Cop';
-            
+
             setTimeout(function() {
                 button.classList.remove('copied');
                 copyText.textContent = 'Copy';
@@ -56,12 +64,12 @@ function copyBibTeX() {
             console.error('Failed to copy: ', err);
             // Fallback for older browsers
             const textArea = document.createElement('textarea');
-            textArea.value = bibtexElement.textContent;
+            textArea.value = codeElement.textContent;
             document.body.appendChild(textArea);
             textArea.select();
             document.execCommand('copy');
             document.body.removeChild(textArea);
-            
+
             button.classList.add('copied');
             copyText.textContent = 'Cop';
             setTimeout(function() {

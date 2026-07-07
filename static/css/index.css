@@ -375,6 +375,14 @@ pre {
   box-shadow: var(--shadow-sm);
 }
 
+/* Citation blocks: wrap long lines */
+.citation-block pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  overflow-x: visible;
+}
+
 code {
   background: var(--background-accent) !important;
   color: var(--text-primary) !important;
@@ -382,6 +390,14 @@ code {
 }
 
 /* BibTeX Section Improvements */
+.citation-block {
+  margin-bottom: 2rem;
+}
+
+.citation-block:last-child {
+  margin-bottom: 0;
+}
+
 .bibtex-header {
   display: flex;
   justify-content: space-between;
